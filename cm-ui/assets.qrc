@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file alias="qmldir">assets/qmldir</file>
+        <file alias="Style.qml">assets/Style.qml</file>
+        <file alias="fontawesome.ttf">assets/fontawesome-webfont.ttf</file>
+        <file alias="error2">assets/emoji-emoticon-crying-tears-d-rendering-emoji-emoticon-crying-tears-d-rendering-163340900.jpg</file>
+        <file alias="wallpaper">assets/wallpaper.png</file>
+        <file alias="fb.db">assets/fb.db</file>
+        <file alias="plane1">assets/plane1.png</file>
+        <file alias="plane2">assets/plane2.png</file>
+        <file alias="plane3">assets/plane3.png</file>
+    </qresource>
+</RCC>

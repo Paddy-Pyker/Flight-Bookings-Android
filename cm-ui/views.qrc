@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/views">
+        <file alias="MasterView.qml">views/MasterView.qml</file>
+        <file alias="SplashView.qml">views/SplashView.qml</file>
+        <file alias="DashboardView.qml">views/DashboardView.qml</file>
+        <file alias="CreateClientView.qml">views/CreateClientView.qml</file>
+        <file alias="EditClientView.qml">views/EditClientView.qml</file>
+        <file alias="FindClientView.qml">views/FindClientView.qml</file>
+        <file alias="RssView.qml">views/RssView.qml</file>
+        <file alias="main.qml">views/main.qml</file>
+        <file alias="PlaneMasterView.qml">views/PlaneMasterView.qml</file>
+        <file alias="Plane1View.qml">views/Plane1View.qml</file>
+        <file alias="Plane2View.qml">views/Plane2View.qml</file>
+        <file alias="Plane3View.qml">views/Plane3View.qml</file>
+    </qresource>
+</RCC>
